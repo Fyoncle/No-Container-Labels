@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "no-container-labels",
+  "version": "${version}",
+  "name": "No Container Labels",
+  "description": "Removes container labels from most of the interactable blocks and entities for a cleaner look.",
+  "authors": [
+    "Fyoncle"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
+  },
+  "license": "MIT",
+  "icon": "assets/no-container-labels/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.nocontainerlabels.NoContainerLabels"
+    ]
+  },
+  "mixins": [
+    "no-container-labels.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.20.1",
+    "fabric-api": "*"
+  }
+}
