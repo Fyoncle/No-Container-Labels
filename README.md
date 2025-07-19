@@ -12,3 +12,6 @@ But you may ask why would anyone even need this? This mod exists because I was s
 <img src="https://cdn.modrinth.com/data/cached_images/3ab58539964924506fca0ef37c64743b7cbe7037.png" width="360">
 
 ---
+
+### Credits:
+Mod Logo by [Vixel](https://modrinth.com/user/Vixel)
