@@ -23,7 +23,7 @@ public abstract class HandledScreenTitleMixin {
             "crafting", "enchant", "anvil", "brewing", "loom", "grindstone",
             "cartography", "stonecutter", "dispenser", "shulker_box", "hopper",
             "furnace", "smoker", "blast_furnace", "dropper", "chest", "ender_chest",
-            "barrel", "smithing"
+            "barrel", "smithing", "crafter"
     );
 
     @WrapOperation(
